@@ -42,8 +42,18 @@ Analiz sonuçları GUI'de gösterilecek, resimlerin aynı kişiye mi yoksa farkl
 Her resim için cinsiyet, yaş ve baskın duygu gibi ek bilgiler de görüntülenecektir.
 Sonuçlar ayrıca bir PostgreSQL veritabanına kaydedilecektir. Veritabanı bağlantı bilgilerini, connect_to_database fonksiyonunda düzenleyebilirsiniz.
 
+## Çıktılar 
+![WhatsApp Image 2023-07-23 at 00 59 07](https://github.com/senanurpaksoy/ImageDetect-/assets/66176697/720ab607-7439-412f-bd70-06b6ff81fb43)
+
+
 Not:Seçilen resimlerin, doğru analiz için tespit edilebilir yüzler içermesi gerekmektedir.
-Uygulama, yüz analizi ve doğrulama için DeepFace kütüphanesini kullanmaktadır. Bu uygulamada kullanılan analiz ve doğrulama yöntemleri hakkında daha fazla bilgi için DeepFace belgelerine başvurabilirsiniz.
-Kodu keşfetmeye ve ihtiyaçlarınıza göre düzenlemeye çekinmeyin. Herhangi bir sorunuz veya sorununuz olursa lütfen çekinmeden iletişime geçin. İyi yüz analizleri ve doğrulamaları dileriz!
+
+-Uygulama, yüz analizi ve doğrulama için DeepFace kütüphanesini kullanmaktadır. 
+
+-Bu uygulamada kullanılan analiz ve doğrulama yöntemleri hakkında daha fazla bilgi için DeepFace belgelerine başvurabilirsiniz.
+
+-Kodu keşfetmeye ve ihtiyaçlarınıza göre düzenlemeye çekinmeyin. 
+
+-Herhangi bir sorunuz veya sorununuz olursa lütfen çekinmeden iletişime geçin. İyi yüz analizleri ve doğrulamaları dileriz!
 
 
