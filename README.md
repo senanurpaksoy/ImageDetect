@@ -23,10 +23,18 @@ Gereksinim duyulan paketleri aşağıdaki komutla pip ile yükleyebilirsiniz:
 ```bash
 pip install deepface opencv-python matplotlib cmake dlib pandas tensorflow tqdm gdown psycopg2
 ```
-##Kullanım
+
+
+## Kullanım
+
+
 Depoyu yerel makinenize klonlayın.
 Depo dizinine gidin.
-##Uygulamayı Çalıştırma
+
+
+## Uygulamayı Çalıştırma
+
+
 Yüz analizi ve doğrulama arayüzünü çalıştırmak için aşağıdaki komutu kullanın:
 ```
 bash
