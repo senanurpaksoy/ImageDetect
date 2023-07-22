@@ -17,6 +17,7 @@ import psycopg2
 import json
 
 root = Tk()
+root.title("ImageDetect | ©2023 SENANUR PAKSOY")
 root.geometry('800x800')
 
 def connect_to_database():
