@@ -37,8 +37,6 @@ Depo dizinine gidin.
 
 Yüz analizi ve doğrulama arayüzünü çalıştırmak için aşağıdaki komutu kullanın:
 ```
-bash
-Copy code
 python app.py
 ```
 Kullanıcı Arayüzü
