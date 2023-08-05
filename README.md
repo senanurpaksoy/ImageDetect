@@ -60,6 +60,6 @@ Not:Seçilen resimlerin, doğru analiz için tespit edilebilir yüzler içermesi
 
 -Kodu keşfetmeye ve ihtiyaçlarınıza göre düzenlemeye çekinmeyin. 
 
--Herhangi bir sorunuz veya sorununuz olursa lütfen çekinmeden iletişime geçin. İyi yüz analizleri ve doğrulamaları dileriz!
+-Herhangi bir sorunuz veya sorununuz olursa lütfen çekinmeden iletişime geçin. İyi yüz analizleri ve doğrulamaları dilerim!
 
 
